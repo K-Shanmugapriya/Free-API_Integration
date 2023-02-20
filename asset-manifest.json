@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Free-API_Integration/static/css/main.073c9b0a.css",
+    "main.js": "/Free-API_Integration/static/js/main.0dddfdab.js",
+    "static/js/787.635aedaa.chunk.js": "/Free-API_Integration/static/js/787.635aedaa.chunk.js",
+    "index.html": "/Free-API_Integration/index.html",
+    "main.073c9b0a.css.map": "/Free-API_Integration/static/css/main.073c9b0a.css.map",
+    "main.0dddfdab.js.map": "/Free-API_Integration/static/js/main.0dddfdab.js.map",
+    "787.635aedaa.chunk.js.map": "/Free-API_Integration/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0dddfdab.js"
+  ]
+}
